@@ -43,6 +43,6 @@ I'm a developer and IT, passionate about low level programming. I love playing v
 
 ---
 
-⭐️ From [konaneechan](https://github.com/konaneechan)
+⭐️ From [konaneechan](https://konachi.neocities.org)
 
 📸 Profile picture by spicymancer
