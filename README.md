@@ -13,6 +13,7 @@ I'm a developer and IT, passionate about low level programming. I love playing v
 - 📫 How to reach me: discord or bluesky
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love stars and dead stars ✨
+- 🎶 Fave band: HEALTH
 
 ## 🛠️ Technologies & Tools
 
@@ -29,10 +30,15 @@ I'm a developer and IT, passionate about low level programming. I love playing v
 - Git
 - VS Code
 
-## 📚 Currently Reading
+## 📚 Hella Gay Stuff I've been Reading
 
 - Murderbot Diaries by Martha Wells
 - The Locked Tomb by Tamsyn Muir
+- Love Points to You by Alice Lin
+- Punks Triangle by Yuho Okita
+- 葬送のフリーレン by Kanehito Yamada
+- Wandering Son by Takako Shimura
+- 呪術廻戦 by Gege Akutami
 
 ## 🎨 Hobbies & Interests
 
