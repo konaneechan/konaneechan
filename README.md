@@ -38,17 +38,6 @@ I'm a developer and IT professional, passionate about low-level programming. I l
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Kona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=konaneechan&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konaneechan&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ### 📚 Hella Gay Stuff I've Been Reading
 
 - *Murderbot Diaries* — Martha Wells
