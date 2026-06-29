@@ -63,6 +63,4 @@ I'm a developer and IT professional, passionate about low-level programming. I l
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5BCEFA,100:FF6FA0&height=100&section=footer" width="100%" />
 
-*⭐ From [konaneechan](https://konachi.neocities.org)*
-
 </div>
