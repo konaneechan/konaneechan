@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:55CDFC,100:F7A8B8&height=180&section=header&text=konaneechan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=developer%20%7C%20IT%20%7C%20low-level%20enthusiast&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5BCEFA,100:FF6FA0&height=180&section=header&text=konaneechan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=developer%20%7C%20IT%20%7C%20low-level%20enthusiast&descAlignY=55&descSize=18" width="100%" />
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/konanee.bsky.social)
 [![Discord](https://img.shields.io/badge/Discord-konaneechan-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/204124635246100481)
@@ -61,7 +61,7 @@ I'm a developer and IT professional, passionate about low-level programming. I l
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:55CDFC,100:F7A8B8&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5BCEFA,100:FF6FA0&height=100&section=footer" width="100%" />
 
 *⭐ From [konaneechan](https://konachi.neocities.org)*
 
